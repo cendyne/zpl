@@ -1,0 +1,10 @@
+{
+  "version": "3",
+  "remote": {
+    "https://deno.land/x/tiny_encodings@0.2.1/encoding.ts": "7ebf110f8f358e538062a0d7a0ff70ce0b0dea125671ae92602ef2bb0da4fd9a",
+    "https://deno.land/x/tiny_encodings@0.2.1/endianness.ts": "921fb9b0b18161b2df7c975e9c38d8cafe6b5a3cedf041ced5067857fe9d22b9",
+    "https://deno.land/x/tiny_encodings@0.2.1/endianness_internal.ts": "ff50083a1fb88a2c49aa040975774fbab4308ee1a03d583755e87f5a67c8b529",
+    "https://deno.land/x/tiny_encodings@0.2.1/index.ts": "6da8b2c603f286c98f41bebde121b11335c5a299d6edc45bfc99897e37f88912",
+    "https://deno.land/x/tiny_encodings@0.2.1/internal.ts": "58b4634b18877d01f02475114370dd3ec03124f2d763f56c31647e43a437b23c"
+  }
+}

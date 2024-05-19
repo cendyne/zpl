@@ -1,0 +1,15 @@
+^XA
+^PON
+^LS-180^LT15
+^FO0,0^A0N,30,30
+^FB200,4,,C
+^FDYellow Beans and burritos
+^FS
+^FO0,0,
+^BQN,2,2
+^FDLA,HELLO WORLD^FS
+^FO0,154
+^ADN,30,20
+^FD1234
+^FS
+^XZ

@@ -1,0 +1,9 @@
+^XA
+^POI
+^FXPOI means print orientation invert^FS
+^FO0,0
+^FX^FOX,X means field origin with coordinates^FS
+^BQN,2,2
+^FDLA,HELLO WORLD^FS
+^FXBQ is the qrcode bar code^FS
+^XZ
